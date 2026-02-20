@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Modern Sofa",
+        "description": "Comfortable 3-seater sofa made of soft fabric",
+        "image": "c:/Users/lenovo/OneDrive/Desktop/furniture_catalog/static/images/modernsofa.jpg"
+    },
+    {
+        "name": "Wooden Dining Table",
+        "Description": "Stylish table for 6 with natural french wood finish.",
+        "image": "c:/Users/lenovo/OneDrive/Desktop/furniture_catalog/static/images/woodendiningtable.jfif"
+    }
+]
